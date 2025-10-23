@@ -22,3 +22,7 @@ html,body {
   content: "▶";
   color:blue;
 }
+
+#disp1{
+    font-size: x-large;
+}
